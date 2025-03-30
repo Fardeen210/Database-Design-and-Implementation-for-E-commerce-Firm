@@ -24,8 +24,8 @@ This project is a comprehensive database system designed for a boat lifestyle e-
 
 
 ## Usage
-  Running Queries: Use your favorite SQL client to run the sample queries provided in the repository. Sample queries include sales analysis, product pricing across countries, and total inventory valuation.
-  Extending the Schema: Contributions are welcome to further optimize queries or add new features such as additional reporting and BI integrations.
+  Running Queries: Using MySQL workbench to run the sql queries including sales analysis, product pricing across countries, and total inventory valuation.
+A customer visits e-commerce website, registers, and browses the product catalog (managed via the Products and Categories tables). They add items to their cart and place an order. The system creates an order linked to their account (using Customer_id) and records detailed items in an OrderDetails table. Inventory levels are automatically updated in the Inventory table, and the payment is processed via the Payments table. Finally, an invoice is generated, and sales reports are available for business analytics and decision-making.
 
 ## Entity Relation Diagram
 ![image](https://github.com/user-attachments/assets/c3f816a9-a6a2-4d59-bcc0-3e76a243893b)
