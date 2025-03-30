@@ -5,10 +5,12 @@ This project is a comprehensive database system designed for a boat lifestyle e-
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Entity Relation Diagram](#database-structure)
 - [SQL Advance Queries](#Queries)
+- [Installation](#installation)
+
+
 
 ## Features
 - **Customer Management:** Add, update, search, and delete customer records.
@@ -19,13 +21,14 @@ This project is a comprehensive database system designed for a boat lifestyle e-
 - **Reporting & Analytics:** Execute queries to generate sales and inventory reports.
 - **Security:** Implement role-based access and data encryption.
 
+
+
 ## Usage
   Running Queries: Use your favorite SQL client to run the sample queries provided in the repository. Sample queries include sales analysis, product pricing across countries, and total inventory valuation.
   Extending the Schema: Contributions are welcome to further optimize queries or add new features such as additional reporting and BI integrations.
 
 ## Entity Relation Diagram
 ![image](https://github.com/user-attachments/assets/c3f816a9-a6a2-4d59-bcc0-3e76a243893b)
-
 
 ## Installation
 1. **Clone the Repository:**
